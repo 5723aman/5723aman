@@ -1,30 +1,39 @@
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Aman%20Kumar%20Singh&fontAlign=50&fontAlignY=38&fontSize=60&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20🚀%20|%20MERN%20Stack%20⚡%20|%20Backend%20Developer&descAlignY=60&descSize=20&color=0:050A30,25:000C66,50:1B1F3B,75:0F3460,100:16213E"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+Building+Scalable+Web+Applications;🚀+MERN+Stack+Developer;💻+Backend+Developer;🔥+Problem+Solver+%26+DSA+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Code-MERN%20STACK-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Learning-System%20Design-FF0080?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Internships-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=5723aman&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=5723aman&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,+I'm+Aman+Kumar+Singh;Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+Developer;Problem+Solver+🚀" />
+⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡
 </h1>
-
-<h3 align="center">
-  ⚡ Turning Ideas Into Scalable Web Applications ⚡
-</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aman%20Kumar%20Singh&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Backend%20Developer&descAlignY=60&descSize=18"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
-  
-  <img src="https://img.shields.io/badge/Tech-MERN%20Stack-ff0080?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=5723aman&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
 
 ---
 
