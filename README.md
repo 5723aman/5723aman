@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Singh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=Hi+👋,+I'm+Aman+Kumar+Singh;Full+Stack+Developer;MERN+Stack+Enthusiast;Backend+Developer;Problem+Solver+🚀" />
+</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+  ⚡ Turning Ideas Into Scalable Web Applications ⚡
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;Problem+Solver;Building+Cool+Web+Apps+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aman%20Kumar%20Singh&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&fontSize=55&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20Backend%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,50:E94057,100:F27121&height=280&section=header&text=Aman%20Kumar%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=60"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/Tech-MERN%20Stack-ff0080?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-7928CA?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=5723aman&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">⚡ Welcome To My Digital Universe ⚡</h2>
 ---
 
 # 💫 About Me
