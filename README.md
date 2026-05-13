@@ -98,32 +98,57 @@ const aman = {
 
 # 💼 Featured Projects
 
-## 🔹 Job Portal System
-- Full-stack MERN recruitment platform
-- JWT Authentication
-- Recruiter & applicant dashboard
-- Real-time application tracking
+<table>
+<tr>
+<td width="50%">
 
-## 🔹 Hospital Appointment System
-- Online doctor appointment booking
-- PHP & MySQL backend
-- Responsive UI & scheduling features
+<h2 align="center">💼 Job Portal System</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MERN-STACK-00F7FF?style=for-the-badge&logo=mongodb&logoColor=black"/>
+</p>
+
+<p align="center">
+🚀 Full-stack recruitment platform with modern UI/UX <br>
+🔐 Secure JWT Authentication & protected routes <br>
+👨‍💼 Recruiter dashboard for managing job postings <br>
+📄 Applicant dashboard with real-time tracking <br>
+⚡ Responsive and scalable MERN architecture
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind"/>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h2 align="center">🏥 Hospital Appointment System</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/PHP-MYSQL-FF0080?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+<p align="center">
+🩺 Smart online doctor appointment booking system <br>
+📅 Real-time appointment scheduling & management <br>
+💾 Dynamic PHP & MySQL backend integration <br>
+⚡ Responsive UI for seamless user experience <br>
+🏥 Optimized hospital workflow automation
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,javascript"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
+---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=5723aman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=5723aman&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5723aman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
 
 ---
 
