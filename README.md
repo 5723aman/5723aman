@@ -25,9 +25,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=5723aman&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=5723aman&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
+
 
 ---
 
@@ -37,7 +35,7 @@
 
 ---
 
-<h2 align="center">⚡ Welcome To My Digital Universe ⚡</h2>
+
 ---
 
 # 💫 About Me
