@@ -68,7 +68,7 @@ const aman = {
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/aman-kr-singh23/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
