@@ -36,7 +36,36 @@ const aman = {
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,cpp,git,github,vscode,tailwind&theme=dark" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Frontend-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Backend-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Database-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=black&textfill=purple"/>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=black&textfill=green"/>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=black&textfill=green"/>
+<img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=black&textfill=yellow"/>
+
+</p>
+
+---
+
+# ⚡ Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm&theme=dark"/>
+
 </p>
 
 ---
@@ -103,74 +132,4 @@ const aman = {
 </h3>
 ---
 
-# 🏆 Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=5723aman&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# ⚡ Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=5723aman&theme=tokyo-night"/>
-</p>
-
----
-
-# ☕ Developer Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🎵 Coding Vibes
-
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wqexample&cover_image=true&theme=novatorem"/>
-</p>
-
----
-
-# 🧠 Currently Learning
-
-```text
-✔ Advanced Backend Development
-✔ System Design
-✔ REST APIs
-✔ Authentication & Authorization
-✔ Database Optimization
-```
-
----
-
-# 🔥 Fun Facts
-
-- 💻 I enjoy building full-stack web applications
-- 🚀 Passionate about backend development
-- 🎯 Consistent DSA problem solver
-- 🌙 Late night coding enthusiast
-
----
-
-# 📈 Contribution Stats
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=5723aman&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-# 💻 Dev Environment
-
-```yaml
-OS: macOS
-Editor: VS Code
-Languages: JavaScript, C++, PHP
-Backend: Node.js, Express.js
-Database: MongoDB, MySQL
-Frontend: React.js, Tailwind CSS
-```
