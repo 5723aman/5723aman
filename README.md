@@ -12,9 +12,7 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=5723aman&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-</p>
+
 
 
 
