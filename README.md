@@ -7,15 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=⚡+Building+Scalable+Web+Applications;🚀+MERN+Stack+Developer;💻+Backend+Developer;🔥+Problem+Solver+%26+DSA+Enthusiast"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Code-MERN%20STACK-00F7FF?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Learning-System%20Design-FF0080?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20To-Internships-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</p>
 
 <p align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700"/>
